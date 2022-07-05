@@ -11,7 +11,7 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Voice Recognition</title>
 
-voice-recognition using css:
+# voice-recognition using css:
     <style>
     h1 {
   color: white;
@@ -56,7 +56,7 @@ voice-recognition using css:
 </style>
 
 
-voice-recognition using Javascript:
+# voice-recognition using Javascript:
 <body>
 <!-- Input area -->
                        <h1>التعرف على الصوت</h1>
