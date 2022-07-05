@@ -57,7 +57,7 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
 
 
 # voice-recognition using Javascript:
- <script>
+      <script>
         function record() {
             var recognition = new webkitSpeechRecognition();
             recognition.lang = "ar-SA";
