@@ -59,7 +59,7 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
 # voice-recognition using Javascript:
 <body>
 <!-- Input area -->
-                       <h1>التعرف على الصوت</h1>
+    <h1>التعرف على الصوت</h1>
     
     <input type="text" name="" id="speechToText" placeholder="...... قل شيئا من فضلك"><p></p>
     <button onclick="record()"> تحدث </button>
