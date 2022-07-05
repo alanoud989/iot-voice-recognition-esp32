@@ -16,7 +16,7 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
     h1 {
   color: white;
   text-align: center;
-}
+    }
     input[type=text]{
     width:80%;
     padding: 50px 50px;
@@ -47,13 +47,13 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
     margin: 4px 2px;
     cursor: pointer;
   
-}
-    body {
-  background-color: lightblue;
-}
+   }
+     body {
+     background-color: lightblue;
+   }
 
-</head>
-</style>
+    </head>
+    </style>
 
 
 # voice-recognition using Javascript:
