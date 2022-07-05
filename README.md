@@ -57,12 +57,6 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
 
 
 # voice-recognition using Javascript:
-<body>
-<!-- Input area -->
-<h1>التعرف على الصوت</h1>
-    
-    <input type="text" name="" id="speechToText" placeholder="...... قل شيئا من فضلك"><p></p>
-    <button onclick="record()"> تحدث </button>
  <script>
         function record() {
             var recognition = new webkitSpeechRecognition();
@@ -78,8 +72,6 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
     </script>
     <!-- end of script -->
 
-</body>
-</html>
 
-esp32 flow chart:
+# esp32 flow chart:
 ![image](https://user-images.githubusercontent.com/95648490/177235272-90770f8b-d83d-4d6f-8bf9-3284241d8bb6.png)
