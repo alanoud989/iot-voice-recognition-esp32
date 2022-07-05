@@ -2,10 +2,9 @@
 A web page for voice recognition and converting it into text in Arabic , Algorithm steps to run the esp32
 
 # voice-recognition using html:
-  <!DOCTYPE html>
-  <htmllang="ar">
-  <head>
-
+    <!DOCTYPE html>
+    <htmllang="ar">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
