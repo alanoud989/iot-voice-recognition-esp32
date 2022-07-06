@@ -90,7 +90,7 @@ Then press OK
 13. Then a page press an arrow tick appears in the address bar on the left side of the upload process.
 14. The blue light begins to point quickly or at medium speed.
 
-![image](https://user-images.githubusercontent.com/95648490/177235272-90770f8b-d83d-4d6f-8bf9-3284241d8bb6.png)
+
 
 # esp32 flow chart:
 ![image](https://user-images.githubusercontent.com/95648490/177235272-90770f8b-d83d-4d6f-8bf9-3284241d8bb6.png)
