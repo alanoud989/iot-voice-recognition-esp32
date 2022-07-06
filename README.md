@@ -69,7 +69,13 @@ A web page for voice recognition and converting it into text in Arabic , Algorit
         }
     </script>
     <!-- end of script -->
+# This is an image of the web page that supports the Arabic language and works to recognize sounds and convert them into text
 
+![1](https://user-images.githubusercontent.com/95648490/177238209-e586bb47-41c1-4757-a51e-fdc5525987ac.png)
+
+# And here, when he spoke in Arabic, he converted it into a text, which is السلام عليكم 
+
+![2](https://user-images.githubusercontent.com/95648490/177238406-3d3f9d1c-73e7-4679-aede-6a542fb6ba93.png)
 
 # algorithm steps to the run wasdom esp32 piece.
 
