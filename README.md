@@ -1,8 +1,6 @@
 # iot-voice-recognition-esp32
 A web page for voice recognition and converting it into text in Arabic , Algorithm steps to run the esp32
 
-# Here is a link that was uploaded online to access it and try it
-https://soundtotext.netlify.app/
 
 # voice-recognition using html:
     <!DOCTYPE html>
@@ -79,6 +77,11 @@ https://soundtotext.netlify.app/
 # And here, when he spoke in Arabic, he converted it into a text, which is السلام عليكم 
 
 ![2](https://user-images.githubusercontent.com/95648490/177238406-3d3f9d1c-73e7-4679-aede-6a542fb6ba93.png)
+
+
+# Here is a link that was uploaded online to access it and try it
+https://soundtotext.netlify.app/
+
 
 # algorithm steps to the run wasdom esp32 piece.
 
